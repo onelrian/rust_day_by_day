@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "day01_hello_rust"
+name = "day01_calculator"
 version = "0.1.0"
